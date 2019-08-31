@@ -15,6 +15,8 @@ The compendium is created with an objective to **organise all the latest researc
 
 
 
+
+
 # 1. ACL:
 
 ## Papers Call 2020:
@@ -24,6 +26,8 @@ The compendium is created with an objective to **organise all the latest researc
 
 
 ## [ACL 2019](<http://www.acl2019.org/EN/index.xhtml>):
+
+
 
 ### Best Demo papers:
 
@@ -44,10 +48,14 @@ The compendium is created with an objective to **organise all the latest researc
 
 
 
+
+
 ### Best short paper:
 
 **[Do you know that Florence is packed with visitors? Evaluating state-of-the-art models of speaker commitment.](<https://www.aclweb.org/anthology/P19-1412/>)** 
 *Nanjiang Jiang and Marie-Catherine de Marneffe*
+
+
 
 
 
@@ -58,7 +66,11 @@ The compendium is created with an objective to **organise all the latest researc
 
 
 
+
+
 ### [Best paper awards:](<http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml>)
+
+
 
 
 
@@ -78,7 +90,14 @@ The compendium is created with an objective to **organise all the latest researc
 
 
 
+
+
 ### [List of Workshops:](<http://www.acl2019.org/EN/workshops.xhtml>)
+
+
+
+
+
 
 
 
@@ -88,6 +107,8 @@ The compendium is created with an objective to **organise all the latest researc
 [Paper's List](https://www.aclweb.org/anthology/events/acl-2019/#p19-1)
 
 [Student Reasearch Workshop](<https://www.aclweb.org/anthology/events/acl-2019/#p19-2>)
+
+
 
 
 
@@ -107,21 +128,31 @@ The compendium is created with an objective to **organise all the latest researc
 
 
 
+
+
 ## Upcoming Conferences
 
 
 
 AACL 2020: Suzhou ![🇨🇳](https://abs.twimg.com/emoji/v2/72x72/1f1e8-1f1f3.png)
+
 LREC 2020: Marseille ![🇫🇷](https://abs.twimg.com/emoji/v2/72x72/1f1eb-1f1f7.png)
+
 EMNLP 2020: Punta Cana ![🇩🇴](https://abs.twimg.com/emoji/v2/72x72/1f1e9-1f1f4.png)
+
 COLING 2020: Barcelona ![🇪🇸](https://abs.twimg.com/emoji/v2/72x72/1f1ea-1f1f8.png)
-ACL 2020: Seattle ![🇺🇸](https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.png)References:
+
+ACL 2020: Seattle ![🇺🇸](https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.png)
+
+
 
 
 
 # Reference Books:
 
 https://web.stanford.edu/~jurafsky/slp3/
+
+
 
 
 
