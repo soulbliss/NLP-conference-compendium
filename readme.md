@@ -1,4 +1,4 @@
-The compendium is created with an objective to organise all the latest research carried in the direction of NLP, so that interested researchers, students can head directly to papers that matter rather than sauntering through the conference website and face information overload.  
+The compendium is created with an objective to **organise all the latest research carried in the direction of NLP**, so that interested researchers, students can **head directly to papers that matter** rather than sauntering through the conference website and face information overload.  
 
 
 
