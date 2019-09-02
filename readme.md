@@ -2,7 +2,7 @@ The compendium is created with an objective to **organise all the latest researc
 
 
 
-# NLP top 10 conferences Compendium
+# [NLP top 10 conferences Compendium](https://deeps.site/blog/2019/08/31/nlp-conference-compendium/)
 
 1. [ACL: Association for Computational Linguistics](http://www.aclweb.org/)
 2. [EMNLP: Empirical Methods in Natural Language Processing](http://hum.csse.unimelb.edu.au/emnlp2013/)
