@@ -110,6 +110,73 @@ The compendium is created with an objective to **organise all the latest researc
 
 
 
+## [ACL 2018](<https://acl2018.org/>):
+
+
+
+### Best Demo Paper:
+
+[Out-of-the-box Universal Romanization Tool](<https://www.aclweb.org/anthology/P18-4003/>) by Ulf Hermjakob, Jonathan May and Kevin Knight
+
+
+
+### Best Short papers:
+
+- *[Know What You Don’t Know: Unanswerable Questions for SQuAD](<https://aclweb.org/anthology/P18-2124>).* Pranav Rajpurkar, Robin Jia and Percy Liang
+- *[‘Lighter’ Can Still Be Dark: Modeling Comparative Color Descriptions.](<https://www.aclweb.org/anthology/P18-2125>)* Olivia Winn and Smaranda Muresan
+
+
+
+### Best Long papers:
+
+- *[Finding syntax in human encephalography with beam search](<https://www.aclweb.org/anthology/P18-1254>).* John Hale, Chris Dyer, Adhiguna Kuncoro and Jonathan Brennan.
+- *[Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information.](https://arxiv.org/abs/1805.04655)* Sudha Rao and Hal Daumé III.
+- *[Let’s do it “again”: A First Computational Approach to Detecting Adverbial Presupposition Triggers.](<https://www.aclweb.org/anthology/P18-1256>)* Andre Cianflone,* Yulan Feng,* Jad Kabbara* and Jackie Chi Kit Cheung. 
+
+
+
+### Best Paper Honourable Mentions:
+
+**Short Papers**
+
+- *[Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](https://aclweb.org/anthology/P18-2058).* Luheng He, Kenton Lee, Omer Levy and Luke Zettlemoyer.
+- *[Do Neural Network Cross-Modal Mappings Really Bridge Modalities?](https://arxiv.org/abs/1805.07616)* Guillem Collell and Marie-Francine Moens.
+
+**Long Papers**
+
+- *[Coarse-to-Fine Decoding for Neural Semantic Parsing.](<https://arxiv.org/abs/1805.04793>)* Li Dong and Mirella Lapata.
+- *[NASH: Toward End-to-End Neural Architecture for Generative Semantic Hashing](<https://arxiv.org/abs/1805.05361>).* Dinghan Shen, Qinliang Su, Paidamoyo Chapfuwa, Wenlin Wang, Guoyin Wang, Ricardo Henao and Lawrence Carin.
+- *[Backpropagating through Structured Argmax using a SPIGOT.](<https://www.aclweb.org/anthology/P18-1173/>)* Hao Peng, Sam Thomson and Noah A. Smith.
+- *[Hierarchical Neural Story Generation.](https://arxiv.org/pdf/1805.04833)* Angela Fan, Mike Lewis and Yann Dauphin.
+- [*Semantically Equivalent Adversarial Rules for Debugging NLP models.*](<https://aclweb.org/anthology/P18-1079>) Marco Tulio Ribeiro, Sameer Singh and Carlos Guestrin.
+- *[Large-Scale QA-SRL Parsing.](<https://arxiv.org/abs/1805.05377>)* Nicholas FitzGerald, Julian Michael, Luheng He and Luke Zettlemoyer.
+
+
+
+### [Table of accepted Tutorials:](<https://acl2018.org/tutorials/>)
+
+| [T1: 100 Things You Always Wanted to Know about Semantics & Pragmatics But Were Afraid to Ask](https://acl2018.org/tutorials/#100-things-you-always-wante) |
+| ------------------------------------------------------------ |
+| [T2: Neural Approaches to Conversational AI](https://acl2018.org/tutorials/#neural-approaches-to-conver) |
+| [T3: Variational Inference and Deep Generative Models](https://acl2018.org/tutorials/#variational-inference-and-d) |
+| [T4: Connecting Language and Vision to Actions](https://acl2018.org/tutorials/#connecting-language-and-vis) |
+| [T5: Beyond Multiword Expressions: Processing Idioms and Metaphors](https://acl2018.org/tutorials/#beyond-multiword-expression) |
+| [T6: Neural Semantic Parsing](https://acl2018.org/tutorials/#neural-semantic-parsing) |
+| [T7: Deep Reinforcement Learning for NLP](https://acl2018.org/tutorials/#deep-reinforcement-learning) |
+| [T8: Multi-lingual Entity Discovery and Linking](https://acl2018.org/tutorials/#multi-lingual-entity-discov) |
+
+
+
+### [List of Workshops:](<https://acl2018.org/workshops/>)
+
+
+
+### [All Papers](<https://acl2018.org/programme/papers/>)
+
+
+
+
+
 
 
 ## General Map:
@@ -161,7 +228,7 @@ https://web.stanford.edu/~jurafsky/slp3/
 
 
 - [x] Cover ACL 19
-- [ ] Cover ACL 18
+- [x] Cover ACL 18
 - [ ] Cover ACL 17
 - [ ] Cover EMNLP 18
 - [ ] Cover EMNLP 17
