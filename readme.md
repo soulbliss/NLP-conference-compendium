@@ -68,7 +68,34 @@ The compendium is created with an objective to **organise all the latest researc
 
 
 
-### [Best paper awards:](<http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml>)
+### [Nominated Best papers:](<http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml>)
+
+Title: **Detecting Concealed Information in Text and Speech**
+Authors: *Shengli Hu*
+
+Title: **AMR Parsing as Sequence-to-Graph Transduction.**
+Authors: *Sheng Zhang, Xutai Ma, Kevin Duh and Benjamin Van Durme*
+
+Title: **Do Neural Dialog Systems Use the Conversation History Effectively? An Empirical Study.**
+Authors: *Chinnadhurai Sankar, Sandeep Subramanian, Chris Pal, Sarath Chandar and Yoshua Bengio*
+
+Title: **Transferable Multi-Domain State Generator for Task-Oriented**
+Authors: *Chien-Sheng Wu, Andrea Madotto, Ehsan Hosseini-Asl, Caiming Xiong, Richard Socher and Pascale Fung*
+
+Title: **Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts.**
+Authors: *Rui Xia and Zixiang Ding*
+
+Title: **ConvLab: Multi-Domain End-to-End Dialog System Platform**
+Authors: *Sungjin Lee, Qi Zhu, Ryuichi Takanobu, Zheng Zhang, Yaoqin Zhang, Xiang Li, Jinchao Li, Baolin Peng, Xiujun Li, Minlie Huang and Jianfeng Gao*
+
+Title: **Studying Summarization Evaluation Metrics in the Appropriate Scoring Range**
+Author: *Maxime Peyrard*
+
+Title: **Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good.**
+Authors: *Xuewei Wang, Weiyan Shi, Richard Kim, Yoojung Oh, Sijia Yang, Jingwen Zhang and Zhou Yu*
+
+Title: **Zero-Shot Entity Linking by Reading Entity Descriptions**
+Authors: *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin and Honglak Lee*
 
 
 
@@ -94,6 +121,13 @@ The compendium is created with an objective to **organise all the latest researc
 
 ### [List of Workshops:](<http://www.acl2019.org/EN/workshops.xhtml>)
 
+[NLP for Conversational AI](https://sites.google.com/view/nlp4convai/)
+
+[BioNLP 2019](https://aclweb.org/aclwiki/SIGBIOMED)
+
+[Second Workshop on Storytelling (StoryNLP)](http://www.visionandlanguage.net/workshop2019)
+
+[4th Workshop on Representation Learning for NLP (RepL4NLP-2019)](https://sites.google.com/view/repl4nlp2019)
 
 
 
@@ -101,12 +135,16 @@ The compendium is created with an objective to **organise all the latest researc
 
 
 
+### [All papers:](<https://www.aclweb.org/anthology/events/acl-2019/>)
 
-### All papers:
+- [Proceedings all Papers](https://www.aclweb.org/anthology/events/acl-2019/#p19-1) 661 papers
+- [Student Reasearch Workshop](<https://www.aclweb.org/anthology/events/acl-2019/#p19-2>) 61 papers
+- [Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations](https://www.aclweb.org/anthology/events/acl-2019/#p19-3) 35 papers
+- [Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: Tutorial Abstracts](https://www.aclweb.org/anthology/events/acl-2019/#p19-4) 10 papers
 
-[Paper's List](https://www.aclweb.org/anthology/events/acl-2019/#p19-1)
 
-[Student Reasearch Workshop](<https://www.aclweb.org/anthology/events/acl-2019/#p19-2>)
+
+
 
 
 
@@ -173,6 +211,114 @@ The compendium is created with an objective to **organise all the latest researc
 
 ### [All Papers](<https://acl2018.org/programme/papers/>)
 
+- [(Volume 1: Long Papers)](https://www.aclweb.org/anthology/events/acl-2018/#p18-1) 257 papers
+- [(Volume 2: Short Papers)](https://www.aclweb.org/anthology/events/acl-2018/#p18-2) 126 papers
+- [Student Research Workshop](https://www.aclweb.org/anthology/events/acl-2018/#p18-3) 23 papers
+- [System Demonstrations](https://www.aclweb.org/anthology/events/acl-2018/#p18-4) 25 papers
+- [Complete Anthology](<https://www.aclweb.org/anthology/events/acl-2018/>)
+
+
+
+
+
+
+
+## [ACL 2017](<http://www.acl2019.org/EN/index.xhtml>):
+
+
+
+### Best Demo papers:
+
+[**OpenNMT: Open-Source Toolkit for Neural Machine Translation**](https://arxiv.org/abs/1701.02810)
+Guillaume Klein, Yoon Kim, Yuntian Deng, Jean Senellart and Alexander Rush,
+
+
+
+### Best Resource Paper:
+
+Alane Suhr, Mike Lewis, James Yeh and Yoav Artzi,
+**[A Corpus of Natural Language for Visual Reasoning](https://www.aclweb.org/anthology/P17-2034/)**
+
+
+
+### Best short papers:
+
+1. Bogdan Ludusan, Reiko Mazuka, Mathieu Bernard, Alejandrina Cristia and Emmanuel Dupoux
+   **[The Role of Prosody and Speech Register in Word Segmentation: A Computational Modelling Perspective](https://www.aclweb.org/anthology/papers/P/P17/P17-2028/)**
+2. Yizhong Wang and Sujian Li
+   **[A Two-stage Parsing Method for Text-level Discourse Analysis](https://www.aclweb.org/anthology/P17-2029/)**
+3. Keisuke Sakaguchi, Matt Post and Benjamin Van Durme
+   **[Error-repair Dependency Parsing for Ungrammatical Texts](<https://www.aclweb.org/anthology/P17-2030/>)**
+4. Jindřich Libovický and Jindřich Helcl
+   **[Attention Strategies for Multi-Source Sequence-to-Sequence Learning](<https://arxiv.org/abs/1704.06567>)**
+5. Xinyu Hua and Lu Wang
+   **[Understanding and Detecting Diverse Supporting Arguments on Controversial](<https://www.aclweb.org/anthology/P17-2032/>)**
+
+
+
+
+
+### Best long papers:
+
+
+
+1. Ryan Lowe, Michael Noseworthy, Iulian Vlad Serban, Nicolas Angelard-Gontier, Yoshua Bengio and Joelle Pineau
+   **[Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses](https://arxiv.org/abs/1708.07149)**
+2. Daniel Hershcovich, Omri Abend and Ari Rappoport
+   **[A Transition-Based Directed Acyclic Graph Parser for UCCA](<https://www.aclweb.org/anthology/P17-1104/>)**
+3. Maxim Rabinovich, Mitchell Stern and Dan Klein
+   **[Abstract Syntax Networks for Code Generation and Semantic Parsing](https://arxiv.org/abs/1704.07535)**
+4. Yanzhuo Ding, Yang Liu, Huanbo Luan and Maosong Sun
+   **[Visualizing and Understanding Neural Machine Translation](<https://www.aclweb.org/anthology/P17-1106/>)**
+5. Ines Rehbein and Josef Ruppenhofer
+   **[Detecting annotation noise in automatically labelled data](<https://www.aclweb.org/anthology/P17-1107/>)**
+
+
+
+
+
+### [Best paper awards:](<https://acl2017.wordpress.com/2017/08/03/outstanding-and-best-papers-and-the-decision-process/>)
+
+Ryan Cotterell and Jason Eisner,
+**Probabilistic Typology: Deep Generative Models of Vowel Inventories**
+
+
+
+Bogdan Ludusan, Reiko Mazuka, Mathieu Bernard, Alejandrina Cristia and Emmanuel Dupoux,
+**The Role of Prosody and Speech Register in Word Segmentation**
+
+
+
+
+
+### [Accepted Tutorials:](<http://acl2017.org/tutorials/>)
+
+
+
+### [List of Workshops:](<http://acl2017.org/workshops/>)
+
+* [ACL Student Research Workshop](<https://sites.google.com/site/aclsrw2017/accepted-papers>)
+
+* [RoboNLP: Language Grounding for Robotics](https://robonlp2017.github.io/)
+
+* [NLP+CSS: Workshops on Natural Language Processing and Computational Social Science](https://sites.google.com/site/nlpandcss/nlp-css-at-acl-2017)
+
+*  [Repl4NLP: 2nd Workshop on Representation Learning for NLP](https://sites.google.com/site/repl4nlp2017/)
+
+  ​	
+
+
+
+### [All papers:](<https://www.aclweb.org/anthology/events/acl-2017/>)
+
+- [(Volume 1: Long Papers)](https://www.aclweb.org/anthology/events/acl-2017/#p17-1) 196 papers
+- [(Volume 2: Short Papers)](https://www.aclweb.org/anthology/events/acl-2017/#p17-2) 108 papers
+- [Student Research Workshop](https://www.aclweb.org/anthology/events/acl-2017/#p17-3) 24 papers
+- [System Demonstrations](https://www.aclweb.org/anthology/events/acl-2017/#p17-4) 22 papers
+- [Tutorial Abstracts](https://www.aclweb.org/anthology/events/acl-2017/#p17-5) 7 papers
+
+
+
 
 
 
@@ -229,7 +375,7 @@ https://web.stanford.edu/~jurafsky/slp3/
 
 - [x] Cover ACL 19
 - [x] Cover ACL 18
-- [ ] Cover ACL 17
+- [x] Cover ACL 17
 - [ ] Cover EMNLP 18
 - [ ] Cover EMNLP 17
 - [ ] Cover NAACL 18
