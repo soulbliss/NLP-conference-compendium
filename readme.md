@@ -13,17 +13,13 @@ The compendium is created with an objective to **organise all the latest researc
 7. [LREC: Language Resources and Evaluation*](http://lrec-conf.org/)
 8. [NeurIPS: Neural Information Processing Systems*](https://nips.cc/)
 
-
-
-
-
 # 1. ACL:
 
 ## Papers Call 2020:
 
 <https://acl2020.org/calls/papers/>
 
-
+<br>
 
 ## [ACL 2019](<http://www.acl2019.org/EN/index.xhtml>):
 
@@ -146,7 +142,7 @@ Authors: *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, 
 
 
 
-
+<br>
 
 ## [ACL 2018](<https://acl2018.org/>):
 
@@ -221,7 +217,7 @@ Authors: *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, 
 
 
 
-
+<br>
 
 ## [ACL 2017](<http://www.acl2019.org/EN/index.xhtml>):
 
@@ -319,11 +315,7 @@ Bogdan Ludusan, Reiko Mazuka, Mathieu Bernard, Alejandrina Cristia and Emmanuel 
 
 
 
-
-
-
-
-
+<br>
 
 ## General Map:
 
@@ -341,7 +333,7 @@ Bogdan Ludusan, Reiko Mazuka, Mathieu Bernard, Alejandrina Cristia and Emmanuel 
 
 
 
-
+<br>
 
 ## Upcoming Conferences
 
@@ -359,7 +351,7 @@ ACL 2020: Seattle ![🇺🇸](https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.p
 
 
 
-
+<br>
 
 # Reference Books:
 
@@ -367,7 +359,7 @@ https://web.stanford.edu/~jurafsky/slp3/
 
 
 
-
+<br>
 
 
 ## To update:
