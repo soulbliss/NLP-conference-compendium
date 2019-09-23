@@ -357,6 +357,12 @@ ACL 2020: Seattle ![🇺🇸](https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.p
 
 https://web.stanford.edu/~jurafsky/slp3/
 
+<http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html>
+
+<https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ&disable_polymer=true>
+
+
+
 
 
 <br>
