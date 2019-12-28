@@ -470,7 +470,7 @@ https://web.stanford.edu/~jurafsky/slp3/
 - [x] Cover ACL 19
 - [x] Cover ACL 18
 - [x] Cover ACL 17
-- [ ] Cover EMNLP 19
+- [x] Cover EMNLP 19
 - [ ] Cover EMNLP 18
 - [ ] Cover EMNLP 17
 - [ ] Cover NAACL 18
