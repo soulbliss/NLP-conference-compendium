@@ -331,9 +331,105 @@ Bogdan Ludusan, Reiko Mazuka, Mathieu Bernard, Alejandrina Cristia and Emmanuel 
 
 [Mirror of Past ACL Conferences](<https://www.aclweb.org/portal/node/2481>)
 
+<br>
+
+
+
+# 2. EMNLP
+
+<br>
+
+## [EMNLP 2019](<https://www.emnlp-ijcnlp2019.org/>):
+
+
+
+### [Best paper award](<https://www.emnlp-ijcnlp2019.org/program/award/>):
+
+- [Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://www.aclweb.org/anthology/D19-1276.pdf)
+  *Xiang Lisa Li and Jason Eisner*
+
+
+
+### Best paper Runner-Up Award:
+
+- [Designing and Interpreting Probes with Control Tasks](https://www.aclweb.org/anthology/D19-1275.pdf)
+  *John Hewitt and Percy Liang*
+
+
+
+### Best Demo papers:
+
+- [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf)
+  *Eric Wallace, Jens Tuyls, Junlin Wang, Sanjay Subramanian, Matt Gardner and Sameer Singh*
+
+
+
+### Best Resource Paper:
+
+- [Two New Evaluation Datasets for Low-Resource Machine Translation: Nepali-English and Sinhala English](https://www.aclweb.org/anthology/D19-1632.pdf) 
+  *Francisco Guzmán, Peng-Jen Chen, Myle Ott, Juan Pino, Guillaume Lample, Philipp Koehn, Vishrav Chaudhary and Marc’Aurelio Ranzato*
+
+
+
+
+
+### [Accepted Tutorials:](<https://www.emnlp-ijcnlp2019.org/program/tutorials/>)
+
+[Dive into Deep Learning for Natural Language Processing](https://www.emnlp-ijcnlp2019.org/program/tutorials/#t1-dive-into-deep-learning-for-natural-language-processing)
+
+[Processing and Understanding Mixed Language Data](https://www.emnlp-ijcnlp2019.org/program/tutorials/#t2-processing-and-understanding-mixed-language-data) 
+
+[Data Collection and End-to-End Learning for Conversational AI](https://www.emnlp-ijcnlp2019.org/program/tutorials/#t3-data-collection-and-end-to-end-learning-for-conversational-ai) 
+
+[Bias and Fairness in Natural Language Processing](https://www.emnlp-ijcnlp2019.org/program/tutorials/#t4-bias-and-fairness-in-natural-language-processing)
+
+[Discreteness in Neural Natural Language Processing](https://www.emnlp-ijcnlp2019.org/program/tutorials/#t5-discreteness-in-neural-natural-language-processing)
+
+[Graph-based Deep Learning in Natural Language Processing](https://www.emnlp-ijcnlp2019.org/program/tutorials/#t6-graph-based-deep-learning-in-natural-language-processing)
+
+[Semantic Specialization of Distributional Word Vectors](https://www.emnlp-ijcnlp2019.org/program/tutorials/#t7-semantic-specialization-of-distributional-word-vectors)
+
+
+
+
+
+### [List of Workshops:](<https://www.emnlp-ijcnlp2019.org/program/workshops/>)
+
+[The second workshop on Fact Extraction and VERification](http://fever.ai/)
+
+[Discourse in Machine Translation 2019](https://www.idiap.ch/workshop/DiscoMT) 
+
+[Beyond Vision and Language: Integrating Knowledge from the Real World](https://www.lantern.uni-saarland.de/)
+
+[The second Workshop on Multilingual Surface Realization](http://taln.upf.edu/pages/msr2019-ws/) 
+
+[The 2nd Workshop on Machine Reading for Question Answering](https://mrqa.github.io/)
+
+[International Workshop on BioNLP Open Shared Tasks 2019](http://2019.bionlp-ost.org/) 
+
+[The 3rd Workshop on Neural Generation and Translation](https://sites.google.com/view/wngt19/home)
+
+
+
+
+
+### [Keynote sessions:](<https://www.emnlp-ijcnlp2019.org/program/keynotes/>)
+
+Click on above link
+
+
+
+### [All papers:](<https://www.aclweb.org/anthology/events/acl-2017/>)
+
+- [(All Papers)](https://www.aclweb.org/anthology/events/emnlp-2019/#d19-1) 682 papers
+- [System Demonstrations](https://www.aclweb.org/anthology/events/emnlp-2019/#d19-3) 45 papers
+- [Tutorial Abstracts](https://www.aclweb.org/anthology/events/emnlp-2019/#d19-2) 7 papers
+
 
 
 <br>
+
+
 
 ## Upcoming Conferences
 
@@ -374,6 +470,7 @@ https://web.stanford.edu/~jurafsky/slp3/
 - [x] Cover ACL 19
 - [x] Cover ACL 18
 - [x] Cover ACL 17
+- [ ] Cover EMNLP 19
 - [ ] Cover EMNLP 18
 - [ ] Cover EMNLP 17
 - [ ] Cover NAACL 18
