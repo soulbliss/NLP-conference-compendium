@@ -1,7 +1,7 @@
 The compendium is created with an objective to **organise all the latest research carried in the direction of NLP**, so that interested researchers, students can **head directly to papers that matter** rather than sauntering through the conference website and face information overload.  
 
 ## Thanks to our sponsors
-[Product description generator by Cookie writer](https://cookiewriter.com/writing-tools/product-description-generator) uses AI and NLP to write amazing catchy descriptions for your product
+[Product description generator by Cookie writer](https://cookiewriter.com/writing-tools/product-description-generator) uses AI and NLP to write amazing catchy descriptions for your product.
 
 
 # [NLP top 10 conferences Compendium](https://deeps.site/blog/2019/08/31/nlp-conference-compendium/)
